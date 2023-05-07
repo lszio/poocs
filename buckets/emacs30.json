@@ -35,6 +35,11 @@
             "bin\\emacsclientw.exe",
             "Emacs Client",
             "-c -n -a \"\""
+        ],
+        [
+            "bin\\runemacs.exe",
+            "Emacy",
+            "C:\\Users\\liszt\\Emacy\\profiles\\emacy"
         ]
     ]
 }
