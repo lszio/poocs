@@ -1,0 +1,6 @@
+#+TITLE: 自用scoop仓库
+
+* Reference
+
+- [[https://github.com/wsw0108/scoop-bucket][scoop-bucket]]
+  - librime
