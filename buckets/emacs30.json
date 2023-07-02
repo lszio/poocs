@@ -39,7 +39,7 @@
         [
             "bin\\runemacs.exe",
             "Emacy",
-            "C:\\Users\\liszt\\Emacy\\profiles\\emacy"
+            "--init-directory C:\\Users\\liszt\\Emacy\\profiles\\emacy"
         ]
     ]
 }
