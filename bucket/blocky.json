@@ -1,0 +1,13 @@
+{
+    "version": "0.24.0",
+    "description": "Blocky",
+    "homepage": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/0xERR0R/blocky/releases/download/v0.24/blocky_v0.24_Windows_x86_64.zip"
+        }
+    },
+    "bin": [
+        "blocky.exe"
+    ]
+}
